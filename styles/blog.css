@@ -1,0 +1,21 @@
+.htt{ 
+    /* height: 300px;background-image: url('house\ icon.png'); */
+       /* background-image: url('../house\ icon.png'); */
+     /* background-repeat:no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    background-size: 100px;
+}
+h3{font-size: 40px
+text-decoration: overline;}
+.sbb{ backgrouor: rgb(0, 0, 0);}
+/* .second{display: none;} */
+.blog{ margin:20px; border: solid tomato;
+box-shadow: 10px 10px 20px violet;}
+.common{border: 3px solid yellow; display: inline block;}
+.building{ border: 2px solid turquoise;
+          height: 100px;
+          display: inline block;
+}

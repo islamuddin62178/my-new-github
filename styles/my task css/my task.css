@@ -1,0 +1,57 @@
+h2 {
+  text-decoration: underline blue;
+}
+
+.sub-subject {
+  padding-left: 20px;
+}
+.subject-list {
+  color: aquamarine;
+}
+
+.form-submit {
+  display: flex;
+  align-items: start;
+  justify-content: space-around;
+  background-color: rgb(129, 129, 197);
+}
+img {
+  margin: top 200px;
+  border-radius: 10px;
+}
+.classroom {
+  height: 500;
+  width: 400;
+}
+.instruct {
+}
+.img1 {
+  margin-top: 25px;
+}
+.requirement1,
+.requirement2,
+.requirement3 {
+  border: solid;
+  width: 250px; 
+  margin: 10px;
+  box-shadow: 10px 10px;
+  border-color: bisque;
+}
+.requirement2{
+  margin-left: 39px;
+}
+.requirement1,
+.requirement2{
+  float:left;
+}
+.requirement3{
+  float: right;
+}
+
+.section2 {
+  background-color: black;
+  height: 500px;
+}
+.requirement1 {
+  margin-left: 10px;
+}
